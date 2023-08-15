@@ -10,7 +10,7 @@
 
 **Data:** [Link](https://archive.ics.uci.edu/dataset/518/speaker+accent+recognition)
 
-**Notebook:**[Link]()
+**Notebook:**[Link](https://github.com/Kmohamedalie/Speaker-Accent-Recognition/tree/master/Notebook)
 
 
 **Additional Information**
