@@ -13,6 +13,8 @@
 **Notebook:**[Link](https://github.com/Kmohamedalie/Speaker-Accent-Recognition/tree/master/Notebook)
 
 
+<bold>Achieved metrics:</bold>    Accuracy  81.68%,   Precision  81.82%, Recall  81.82%
+
 **Additional Information**
 
 Response variable: 
