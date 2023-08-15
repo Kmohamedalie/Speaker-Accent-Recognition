@@ -5,7 +5,7 @@
 
 ![image](https://github.com/Kmohamedalie/Speaker-Accent-Recognition/assets/63104472/56f983e1-114e-461b-94e4-cf6380e81135)
 
-**Task:** recognizing speaker's accent using machine learning
+**Task:** recognizing speaker accent using machine learning
 
 
 **Data:** [Link](https://archive.ics.uci.edu/dataset/518/speaker+accent+recognition)
