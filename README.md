@@ -10,7 +10,7 @@
 
 **Data:** [Link](https://archive.ics.uci.edu/dataset/518/speaker+accent+recognition)
 
-**Notebook:**[Link](https://github.com/Kmohamedalie/Speaker-Accent-Recognition/tree/master/Notebook)
+**Complete JupyterNotebook:** [Link](https://github.com/Kmohamedalie/Speaker-Accent-Recognition/tree/master/Notebook)
 
 
 <bold>Achieved metrics:</bold>    Accuracy  81.68%,   Precision  81.82%, Recall  81.82%
