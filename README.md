@@ -10,12 +10,19 @@
 
 **Data:** [Link](https://archive.ics.uci.edu/dataset/518/speaker+accent+recognition)
 
-**Complete JupyterNotebook:** [Link](https://github.com/Kmohamedalie/Speaker-Accent-Recognition/tree/master/Notebook)
+**Complete JupyterNotebook:** [Link](https://github.com/Kmohamedalie/Speaker-Accent-Recognition/blob/master/Notebook/SVM%20-%20Speaker%20Accent%20Recognition.ipynb)
 
 
-<bold>Achieved metrics:</bold>    Accuracy  81.68%,   Precision  81.82%, Recall  81.82%
+**Metrics:**
 
-**Additional Information**
+| Algorithm | Precision | Recall | F1-score | Accuracy |
+|-----------|-----------|-------- |----------|----------|
+| Xgboost   | 81.82%    |   81.82% |  81.82%  | 81.68%  |
+
+
+<br>
+
+**Additional Information about the dataset**
 
 Response variable: 
 language = {ES, FR, GE, IT, UK, US} The six possible accents considered
