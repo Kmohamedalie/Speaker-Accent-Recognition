@@ -17,7 +17,7 @@
 
 | Algorithm | Precision | Recall | F1-score | Accuracy |
 |-----------|-----------|-------- |----------|----------|
-| Xgboost   | 81.82%    |   81.82% |  81.82%  | 81.68%  |
+| Support vector machine   | 81.82%    |   81.82% |  81.82%  | 81.68%  |
 
 
 <br>
